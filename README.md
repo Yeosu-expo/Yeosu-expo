@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Gangguri
+![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=68BC71&height=150&section=header&text=Gangguri&fontColor=8BC0D0&fontSize=70&animation=fadeIn&fontAlignY=55)
